@@ -6,5 +6,5 @@ puts "Woof!"
   
   def Sit
     puts "The Dog is sitting"
-end
+  end
 end
